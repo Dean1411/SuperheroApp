@@ -51,12 +51,12 @@ html {
     margin-top: 0;
     color: white#444;
     padding-bottom: 4px;
-    text-align: center;
+    text-align: justify;
   }
 
   #bio p {
     margin: 6px 0;
-    text-align: center;
+    text-align: justify;
   }
 
   #bio b {
